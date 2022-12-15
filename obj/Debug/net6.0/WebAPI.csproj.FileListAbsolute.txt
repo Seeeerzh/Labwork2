@@ -1,0 +1,152 @@
+D:\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\WebAPI\bin\Debug\net6.0\appsettings.json
+D:\WebAPI\bin\Debug\net6.0\WebAPI.exe
+D:\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+D:\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+D:\WebAPI\bin\Debug\net6.0\WebAPI.dll
+D:\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+D:\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+D:\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+D:\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+D:\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+D:\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+D:\WebAPI\obj\Debug\net6.0\WebAPI.dll
+D:\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+D:\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+D:\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+D:\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+D:\WebAPI\bin\Debug\net6.0\EFCore.NamingConventions.dll
+D:\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\WebAPI\bin\Debug\net6.0\Npgsql.dll
+D:\WebAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\testhost.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\appsettings.json
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\testhost.exe
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\WebAPI.exe
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\WebAPI.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\EFCore.NamingConventions.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Npgsql.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\NuGet.Frameworks.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.abstractions.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.assert.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.core.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\xunit.execution.dotnet.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+c:\Users\serzh\OneDrive\Desktop\University vibe\4th 1 semestr (Pre-final round_\Software engineering\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
